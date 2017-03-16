@@ -1,1 +1,2 @@
-# Weather Web App made with Redux and React from Udemy react-redux tutorial.
+# Weather Web App made with Redux and React.
+Udemy react-redux tutorial.
